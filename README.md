@@ -25,11 +25,11 @@ The collected data can be saved into a CSV file for further analysis.
 ✔ Handles missing values safely
 
 🛠️ Tech Stack
-Technology	Purpose
-Python	Programming Language
-Requests	Fetching webpage HTML
-BeautifulSoup (bs4)	Parsing HTML
-Pandas	Store & export data
+* Technology	Purpose
+* Python	Programming Language
+* Requests	Fetching webpage HTML
+* BeautifulSoup (bs4)	Parsing HTML
+* Pandas	Store & export data
 
 🔒 Note & Disclaimer
 
